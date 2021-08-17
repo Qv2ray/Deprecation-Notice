@@ -14,21 +14,13 @@ Qv2ray: *2019-03-28* - *2021-08-17*
 
 > gcc 写于 8 月 17 日
 
+## Qv2ray 组织下其他项目均正常维护
+
+这包括 gun, mmp-go, mochi, rc4md5cry, v2ray-rust, gun-lite, shadowboom, mmp-rs, qvrelease-bot 等
+
 ## 插件说明
 
-目前 Qv2ray 支持的所有插件： SS / SSR / NaiveProxy / Trojan / Trojan-Go / Command 均以完成最终版本发布。
-
-https://github.com/Qv2ray/QvPlugin-SS/releases/tag/v3.0.0
-
-https://github.com/Qv2ray/QvPlugin-SSR/releases/tag/v3.0.0
-
-https://github.com/Qv2ray/QvPlugin-NaiveProxy/releases/tag/v3.0.0
-
-https://github.com/Qv2ray/QvPlugin-Trojan/releases/tag/v3.0.0
-
-https://github.com/Qv2ray/QvPlugin-Trojan-Go/releases/tag/v3.0.0
-
-https://github.com/Qv2ray/QvPlugin-Command/releases/tag/v3.0.0
+目前 Qv2ray 支持的所有插件： [SS](https://github.com/Qv2ray/QvPlugin-SS/releases/tag/v3.0.0) / [SSR](https://github.com/Qv2ray/QvPlugin-SSR/releases/tag/v3.0.0) / [NaiveProxy](https://github.com/Qv2ray/QvPlugin-NaiveProxy/releases/tag/v3.0.0) / [Trojan](https://github.com/Qv2ray/QvPlugin-Trojan/releases/tag/v3.0.0) / [Trojan-Go](https://github.com/Qv2ray/QvPlugin-Trojan-Go/releases/tag/v3.0.0) / [Command](https://github.com/Qv2ray/QvPlugin-Command/releases/tag/v3.0.0) 均以完成最终版本发布。
 
 需要注意的是，由于长时间无人维护：
 
