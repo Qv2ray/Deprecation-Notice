@@ -19,10 +19,15 @@ Qv2ray: *2019-03-28* - *2021-08-17*
 目前 Qv2ray 支持的所有插件： SS / SSR / NaiveProxy / Trojan / Trojan-Go / Command 均以完成最终版本发布。
 
 https://github.com/Qv2ray/QvPlugin-SS/releases/tag/v3.0.0
+
 https://github.com/Qv2ray/QvPlugin-SSR/releases/tag/v3.0.0
+
 https://github.com/Qv2ray/QvPlugin-NaiveProxy/releases/tag/v3.0.0
+
 https://github.com/Qv2ray/QvPlugin-Trojan/releases/tag/v3.0.0
+
 https://github.com/Qv2ray/QvPlugin-Trojan-Go/releases/tag/v3.0.0
+
 https://github.com/Qv2ray/QvPlugin-Command/releases/tag/v3.0.0
 
 需要注意的是，由于长时间无人维护：
