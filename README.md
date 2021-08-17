@@ -1,4 +1,8 @@
-# Deprecated Notice
+# 有关于 Qv2ray 不再维护的通知
+
+## 原文内容
+
+https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0
 
 Qv2ray: *2019-03-28* - *2021-08-17*
 
